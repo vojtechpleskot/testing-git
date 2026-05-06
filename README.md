@@ -1,2 +1,2 @@
 # testing-git
-Repository for demonstration of work with git in the NOFY084 subject.
+Repository for demonstration of work with git at CU FMF.
